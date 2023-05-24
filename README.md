@@ -1,5 +1,5 @@
-# SQL-Odev7 | GROUP BEY | HAVING
-SQL-Odev7 | GROUP BEY | HAVING
+# SQL-Odev7 | GROUP BY | HAVING
+SQL-Odev7 | GROUP BY | HAVING
 
 www.patika.dev
 
